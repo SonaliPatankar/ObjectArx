@@ -1,0 +1,8 @@
+; Define a Custom Command.def : Declares the module parameters for the DLL.
+
+LIBRARY "Exercise3 Define a Custom Command.arx"
+
+EXPORTS
+     acrxEntryPoint PRIVATE
+     acrxGetApiVersion PRIVATE
+

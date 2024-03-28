@@ -1,0 +1,7 @@
+; Exercise7 Add Line Using User Input.def : Declares the module parameters for the DLL.
+
+LIBRARY "Exercise7 Add Line Using User Input.arx"
+
+EXPORTS
+    acrxEntryPoint PRIVATE
+    acrxGetApiVersion PRIVATE
