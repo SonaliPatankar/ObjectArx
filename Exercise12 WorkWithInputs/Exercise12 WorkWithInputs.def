@@ -1,0 +1,8 @@
+; Exercise12 WorkWithInputs.def : Declares the module parameters for the DLL.
+
+LIBRARY "Exercise12 WorkWithInputs.arx"
+
+EXPORTS
+    ; Explicit exports can go here
+    acrxEntryPoint PRIVATE
+    acrxGetApiVersion PRIVATE

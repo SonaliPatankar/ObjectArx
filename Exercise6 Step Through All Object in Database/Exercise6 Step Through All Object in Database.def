@@ -1,0 +1,8 @@
+; Exercise6 Step Through All Object in Database.def : Declares the module parameters for the DLL.
+
+LIBRARY "Exercise6 Step Through All Object in Database.arx"
+
+EXPORTS
+    ; Explicit exports can go here
+    acrxEntryPoint PRIVATE
+    acrxGetApiVersion PRIVATE

@@ -30,3 +30,32 @@
 *.exe
 *.out
 *.app
+/.vs/ObjectArxAssignment
+/Define a Custom Command/res
+/Define a Custom Command/x64/Debug
+/Define a Custom Command/RCa20040
+/x64/Debug
+/Exercise11 Work with System Variables and Use Commands/res
+/Exercise11 Work with System Variables and Use Commands/x64/Debug
+/Exercise11_SystemVariable/res
+/Exercise11_SystemVariable/x64/Debug
+/Exercise12 WorkWithInputs/res
+/Exercise12 WorkWithInputs/x64/Debug
+/Exercise13 Defining AutoLISP Functions/res
+/Exercise13 Defining AutoLISP Functions/x64/Debug
+/Exercise4 Add Line to Space Model/res
+/Exercise4 Add Line to Space Model/x64/Debug
+/Exercise4 Add Line to Space Model/RCa20040
+/Exercise5 Create New Layer/res
+/Exercise5 Create New Layer/x64/Debug
+/Exercise5 Create New Layer/RCa20040
+/Exercise6 Step Through All Object in Database/res
+/Exercise6 Step Through All Object in Database/x64/Debug
+/Exercise6 Step Through All Object in Database/RCa20040
+/Exercise7 Add Line Using User Input/res
+/Exercise7 Add Line Using User Input/x64/Debug
+/Exercise7 Add Line Using User Input/RCa20040
+/Exercise7 Add Line Using User Input/RCb20040
+/Exercise8 Select Object And Request Keyword/res
+/Exercise8 Select Object And Request Keyword/x64/Debug
+/Exercise8 Select Object And Request Keyword/RCa20040

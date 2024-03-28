@@ -1,0 +1,8 @@
+; Exercise4 Add Line to Space Model.def : Declares the module parameters for the DLL.
+
+LIBRARY "Exercise4 Add Line to Space Model.arx"
+
+EXPORTS
+    ; Explicit exports can go here
+    acrxEntryPoint PRIVATE
+    acrxGetApiVersion PRIVATE
